@@ -1,2 +1,2 @@
-# myportifolio
+# portifolio
 Details About Lawrence Kiberu
